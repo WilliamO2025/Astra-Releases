@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "product": "astra-safe",
+  "version": "1.1.7-safe156",
+  "fileName": "astra-safe-1.1.7-safe156-26.1.2.jar",
+  "url": "https://github.com/WilliamO2025/Astra-Releases/releases/download/v1.1.7-safe156/astra-safe-1.1.7-safe156-26.1.2.jar",
+  "sha256": "UPPERCASE_64_CHARACTER_SHA256",
+  "size": 0,
+  "signature": "BASE64_ED25519_SIGNATURE"
+}
