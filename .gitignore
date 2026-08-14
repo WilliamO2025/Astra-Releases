@@ -1,0 +1,11 @@
+# Never publish signing secrets.
+private/
+*.key
+*.pem
+
+# Release JARs are uploaded as GitHub Release assets, not committed to Git.
+*.jar
+
+# Local staging files.
+staging/
+*.part
