@@ -5,8 +5,9 @@ private/
 
 # Release JARs are uploaded as GitHub Release assets, not committed to Git.
 *.jar
+!downloads/
+!downloads/*.jar
 
 # Local staging files.
 staging/
 *.part
-
