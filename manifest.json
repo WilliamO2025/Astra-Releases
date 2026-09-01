@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "product": "astra-safe",
-  "version": "1.1.9-safe166",
-  "fileName": "astra-safe-1.1.9-safe166-26.1.2.jar",
-  "url": "https://raw.githubusercontent.com/WilliamO2025/Astra-Releases/main/downloads/astra-safe-1.1.9-safe166-26.1.2.jar",
-  "sha256": "F5E13D91CB2F63B21BC6F0F1C4068FB2C0C2E70C3F6E7B3E558B35B35D2185E5",
-  "size": 8197399,
-  "signature": "QUwK/hh75RXMc6pkXQyCjsMQ5do0o4UYdXOtDvPuqFaZ3YRm9yUfYtVdPkrchuF+rKHU5JteoRyZC4MHYi7QDQ=="
+  "version": "1.2.0-safe167",
+  "fileName": "astra-safe-1.2.0-safe167-26.1.2.jar",
+  "url": "https://raw.githubusercontent.com/WilliamO2025/Astra-Releases/main/downloads/astra-safe-1.2.0-safe167-26.1.2.jar",
+  "sha256": "59AB51AF2201EE14EBB906ABAB3E918686EE932C397AB15F154EC733461694B7",
+  "size": 7942238,
+  "signature": "kvybzEO+1A22+yb3GlnC3tabFx1jGZkvXTrPiIWee+zFPf3ipAi0Ll9M5B7lbRDnAqBWEG/rFu7ltYJpdxu9CQ=="
 }
